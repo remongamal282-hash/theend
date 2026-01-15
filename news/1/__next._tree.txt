@@ -1,0 +1,4 @@
+:HL["/_next/static/chunks/17a4105b8e86d400.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700&display=swap","style"]
+:HL["/_next/static/media/logo.79b9d45f.png","image"]
+0:{"buildId":"kmm6Q4XlqlD0olD7gLVnf","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"news","paramType":null,"paramKey":"news","hasRuntimePrefetch":false,"slots":{"children":{"name":"id","paramType":"d","paramKey":"1","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
